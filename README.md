@@ -80,7 +80,7 @@ To grow into a **SOC Analyst role**, where I can combine my cybersecurity defens
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/cybersecurity-portfolio/raw/main/Onyinyechi_Ikea_CV.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/https://kennystfyn.github.io//cybersecurity-portfolio/raw/main/Onyinyechi_Ikea_CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
