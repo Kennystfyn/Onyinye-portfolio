@@ -60,15 +60,15 @@ To grow into a **SOC Analyst role**, where I can combine my cybersecurity defens
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:ikea.onynyechi@gmail.com">ikea.onyinyechi@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 703-109-8767</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>LG, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
