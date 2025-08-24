@@ -60,34 +60,36 @@ To grow into a **SOC Analyst role**, where I can combine my cybersecurity defens
 
 
 
-## CONTACT DETAILS
+## 📞 Contact Details  
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s connect and collaborate!*  
+
 <table>
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:ikea.onynyechi@gmail.com">ikea.onyinyechi@gmail.com</a></td>
+      <td><a href="mailto:ikea.onyinyechi@gmail.com">ikea.onyinyechi@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 703-109-8767</td>
+      <td>(+234) 703-109-8767</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>LG, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/cybersecurity-portfolio/raw/main/Onyinyechi_Ikea_CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/ikeaonyinyechi">Connect with me on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@YOUR_CHANNEL">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
+
