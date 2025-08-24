@@ -87,9 +87,5 @@ To grow into a **SOC Analyst role**, where I can combine my cybersecurity defens
       <td><a href="https://linkedin.com/in/ikeaonyinyechi">Connect with me on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@YOUR_CHANNEL">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+
 
