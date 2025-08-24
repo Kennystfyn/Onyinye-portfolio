@@ -1,49 +1,56 @@
-<!--Section 1: Introduce your self-->
-## ABOUT ME
+# 🌐 Onyinyechi Anita Ikea – Cybersecurity & Data Analytics Portfolio  
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+## 👩‍💻 About Me  
+I am a **Cybersecurity Student and Data Analytics Enthusiast** with a strong foundation in data analysis, financial insights, and Blue Team operations.  
+Currently training at **Torilo Academy** and **Technoapt System**, I specialize in **threat detection, incident response, and vulnerability assessments**.  
 
+---
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## 🛠️ Skills  
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+**Cybersecurity & Technical Tools**  
+- Wireshark | Nmap | SpiderFoot | Wafw00f | Nikto | Masscan | Ettercap | Bettercap  
+- OWASP tools | OSINT frameworks | Dig | WHOIS  
+- Incident Response | Threat Detection | Vulnerability Assessment  
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**Data Analytics & IT Skills**  
+- Power BI | Tableau | Excel | SQL | Python  
+- Data Visualization | Dashboard Creation | Market Research  
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**Core Professional Skills**  
+- Attention to Detail | Problem Solving | Critical Thinking  
+- Report Writing | Team Collaboration | Client Engagement  
 
+---
 
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## 🎓 Education & Training  
+- Cybersecurity Training – Torilo Academy (*in progress*)  
+- Cybersecurity Audit – Technoapt System  
+- Data Analytics – Quantum NG  
+- BSc Estate Management – University of Lagos  
+- Diploma in Chemical Engineering – University of Benin  
 
-*A glimpse of some of the projects I've been working on.*
+**Certifications (in view):** CISSP (Certified Information Systems Security Professional)  
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+---
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+## 📂 Projects & Experience  
 
+**Cybersecurity Labs & Projects**  
+- Conducted network scans and vulnerability testing using Nmap, Nikto, and OWASP tools.  
+- Performed incident response simulations with Wireshark and OSINT frameworks.  
+- Applied threat intelligence tools like SpiderFoot and Wafw00f to detect and analyze attack surfaces.  
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+**Data Analytics Projects**  
+- Created dashboards using Power BI and Tableau to track KPIs and business metrics.  
+- Applied SQL and Python for cleaning, analyzing, and visualizing datasets.  
+- Used Excel for forecasting, budgeting, and reporting.  
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+---
 
-![image](2 anietie etuk data analytics sales project.jpg)
+## 🚀 Career Goal  
+To grow into a **SOC Analyst role**, where I can combine my cybersecurity defense skills and data analytics background to protect organizations from cyberattacks, detect threats in real-time, and strengthen digital resilience.  
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
