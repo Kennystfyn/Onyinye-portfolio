@@ -47,6 +47,13 @@ Currently training at **Torilo Academy** and **Technoapt System**, I specialize 
 - Used Excel for forecasting, budgeting, and reporting.  
 
 ---
+## 📂 Projects  
+
+- [Network Scans](./projects/network-scans) – Nmap, Nikto, OWASP scan results with screenshots.  
+- [Incident Response](./projects/incident-response) – Wireshark analysis and sample incident report.  
+- [OSINT Research](./projects/osint-research) – SpiderFoot and Wafw00f outputs.  
+- [Dashboards & Analytics](./projects/dashboards) – Power BI, Tableau, and Excel projects.  
+
 
 ## 🚀 Career Goal  
 To grow into a **SOC Analyst role**, where I can combine my cybersecurity defense skills and data analytics background to protect organizations from cyberattacks, detect threats in real-time, and strengthen digital resilience.  
