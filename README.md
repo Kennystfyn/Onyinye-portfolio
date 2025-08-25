@@ -47,12 +47,15 @@ Currently training at **Torilo Academy** and **Technoapt System**, I specialize 
 - Used Excel for forecasting, budgeting, and reporting.  
 
 ---
+This repository contains my cybersecurity and data analytics projects.  
+Each folder showcases practical experience in Blue Team operations, incident response, OSINT, and data analysis.  
+
 ## 📂 Projects  
 
 - [Network Scans](./projects/network-scans) – Nmap, Nikto, OWASP scan results with screenshots.  
 - [Incident Response](./projects/incident-response) – Wireshark analysis and sample incident report.  
-- [OSINT Research](./projects/osint-research) – SpiderFoot and Wafw00f outputs.  
-- [Dashboards & Analytics](./projects/dashboards) – Power BI, Tableau, and Excel projects.  
+- [OSINT Research](./projects/osint-research) – SpiderFoot and OSINT findings.  
+- [Dashboards & Analytics](./projects/dashboards) – Power BI, Tableau, and Excel dashboards. 
 
 
 ## 🚀 Career Goal  
